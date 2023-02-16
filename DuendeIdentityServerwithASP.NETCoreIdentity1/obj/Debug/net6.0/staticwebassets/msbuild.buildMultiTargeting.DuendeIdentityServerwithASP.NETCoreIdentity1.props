@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DuendeIdentityServerwithASP.NETCoreIdentity1.props" />
+</Project>
